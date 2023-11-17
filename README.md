@@ -11,7 +11,7 @@ const Georgi: Developer = {
     code: ["CSharp", "Javascript"],
     technologies: {
         backEnd: [".NET Core", "ASP.NET Core"],
-        frontEnd: ["HTML", "CSS", "javascript"]
+        frontEnd: ["HTML", "CSS", "javascript", "React"]
 };
 ```
 
