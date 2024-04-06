@@ -8,9 +8,9 @@
 ```javascript
 const Georgi: Developer = {
     pronouns: "He" | "Him",
-    code: ["CSharp", "Javascript"],
+    code: ["CSharp", "Python", "Javascript"],
     technologies: {
-        backEnd: [".NET Core", "ASP.NET Core"],
+        backEnd: [".NET Core", "ASP.NET MVC/WEB API"],
         frontEnd: ["HTML", "CSS", "javascript", "React"]
 };
 ```
