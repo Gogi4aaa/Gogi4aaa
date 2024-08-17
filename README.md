@@ -10,7 +10,7 @@ const Georgi: Developer = {
     pronouns: "He" | "Him",
     code: ["CSharp", "Python", "Javascript"],
     technologies: {
-        backEnd: [".NET Core", "ASP.NET MVC/WEB API"],
+        backEnd: [".NET Core", "ASP.NET MVC/WEB API", "Node.js"],
         frontEnd: ["HTML", "CSS", "javascript", "React"]
 };
 ```
